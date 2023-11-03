@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dilshan Theekshana.
-- 👀 I’m interested in Bacend Developer.
+- 👀 I’m interested in Backend Developer.
 - 🌱 I’m studying in SLIIT university.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
