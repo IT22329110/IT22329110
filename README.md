@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwis1tru3KmCAxUe5TgGHZgkCaoQ2-cCegQIABAA&oq=animated+coding+gif&gs_lcp=CgNpbWcQAzIHCAAQExCABDIHCAAQExCABDIICAAQCBAeEBMyCAgAEAgQHhATOgQIIxAnOgYIABAIEB46CAgAEAcQHhATOgYIABAHEB46CAgAEAgQBxAeUK0FWPQYYKwiaABwAHgAgAHsAYgBsQ2SAQUwLjYuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=zuVFZay3MJ7K4-EPmMmk0Ao&bih=695&biw=1536#imgrc=sMOt159SKGCrJM">
+<img align="center" alt="coding" width="600" src="https://i.pinimg.com/originals/7d/df/70/7ddf706fdeccc484f5ce368b4166601f.gif">
 <h1 align="center">Hi 👋, I'm Dilshan theekshana Bandara</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22329110&label=Profile%20views&color=0e75b6&style=flat" alt="it22329110" /> </p>
 
