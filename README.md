@@ -1,42 +1,97 @@
-<img align="center" alt="coding" width="600" src="https://i.pinimg.com/originals/7d/df/70/7ddf706fdeccc484f5ce368b4166601f.gif">
-<h1 align="center">Hi 👋, I'm Dilshan theekshana Bandara</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it22329110&label=Profile%20views&color=0e75b6&style=flat" alt="it22329110" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22329110" alt="it22329110" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a2a,100:0d1117&height=200&section=header&text=Dilshan%20Theekshana&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=56&descSize=20&descColor=5a7a8e" width="100%"/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **Not yet Working**
+<div align="center">
 
-- 🌱 I’m currently learning **Bsc(Hons) Information technology specialization in System Engineering**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Dilshan+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%8C%B1;Flutter+%7C+React+Developer+%F0%9F%93%B1;Let's+build+something+awesome!+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on **on these open source project**
+<br/>
 
-- 🤝 I’m interested in **researching something new....**
+![Profile Views](https://komarev.com/ghpvc/?username=IT22329110&label=Profile+Views&color=00f5d4&style=flat-square)
+&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/-Dilshan-0d1117?style=flat-square&logo=twitter&logoColor=1DA1F2)](http://twitter.com/x.com/dilshantheeksh6?s=21)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-Dilshan%20Theekshana-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/dilshan-theekshan)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-IT22329110-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/IT22329110)
 
-- 💬 Ask me about **react**
+</div>
 
-- 📫 How to reach me **theekshanadilshan758@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I like to reads books, listening music & watching movies.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dilshan-theekshana-a64b0626a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilshan-theekshana-a64b0626a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-  
-<a href="https://fb.com/https://www.facebook.com/dilshantheekshana.bandara?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dilshantheekshana.bandara?mibextid=zbwkwl" height="30" width="40" /></a>
+## 👋 Hi, I'm Dilshan!
 
-<a href="https://instagram.com/https://instagram.com/dilshanroks45?igshid=ytqwzjq0nmi0oa==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/dilshanroks45?igshid=ytqwzjq0nmi0oa==" height="30" width="40" /></a>
+I'm a passionate developer from **Sri Lanka** 🇱🇰, focused on building real-world applications.
 
-</p>
+- 🔭 Currently working on **Full Stack Projects**
+- 🌱 Learning **Flutter & Modern Web Technologies**
+- 👯 Open to **collaborations**
+- 💡 Goal: Build impactful and scalable applications
+- 💬 Ask me about **JavaScript, React, PHP, MySQL**
+- ⚡ Fun fact: I love turning ideas into real systems!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it22329110&show_icons=true&locale=en&layout=compact" alt="it22329110" /></p>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it22329110&show_icons=true&locale=en" alt="it22329110" /></p>
+- 🔗 LinkedIn: https://www.linkedin.com/in/dilshan-theekshan  
+- 💻 GitHub: https://github.com/IT22329110  
+- 🌍 Portfolio: https://dilshantheekshana.vercel.app/  
+- 📧 Email: theekshanadilshan758@gmail.com  
+- 🐦 Twitter: http://twitter.com/x.com/dilshantheeksh6?s=21  
+- 📸 Instagram: https://instagram.com/dila.________01  
+- 📘 Facebook: https://facebook.com/www.facebook.com/share/1Ggfp8tGPk/
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it22329110&" alt="it22329110" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML | CSS | JavaScript | React | Bootstrap | Tailwind  
+
+### Backend
+Node.js | Express | PHP  
+
+### Database
+MySQL | SQL Server  
+
+### Mobile
+Flutter | Android  
+
+### Tools
+Git | GitHub | VS Code | Postman | Figma  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22329110&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=5a7a8e"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT22329110&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=5a7a8e"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dilshan-theekshan">LinkedIn</a> •
+<a href="https://github.com/IT22329110">GitHub</a> •
+<a href="https://dilshantheekshana.vercel.app/">Portfolio</a>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a2a,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
